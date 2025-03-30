@@ -30,6 +30,10 @@ Dashboard georreferenciado desenvolvido no **Power BI** para análise de Livrari
 </div>
 
 ---
+## 📂 Dados Usados
+- [Acesse o arquivo no Google Drive: Clique ]( https://drive.google.com/drive/folders/1sxzV2i_pjKUzwZWoqA3dgmaiAvIDJDfz?usp=drive_link)
+
+---
 ## 📊 Métricas Principais
 
 ### Visão Geral
