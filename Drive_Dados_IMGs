@@ -1,5 +1,1 @@
-echo "https://drive.google.com/link-do-arquivo" > link_drive.txt
-git add link_drive.txt
-git commit -m "Adicionando link do Google Drive"
-git push origin main
-
+Acesse o arquivo no Google Drive: https://drive.google.com/link-do-arquivo
