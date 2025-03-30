@@ -10,15 +10,17 @@
   <img width="48%" src="video_venda.gif" alt="Análise de Vendas">
 </div>
 
-## 📌 Visão Geral
-Dashboard interativo desenvolvido no **Power BI** para monitoramento completo do negócio.
+## <div style="border-left: 4px solid #2a3f5f; padding-left: 12px">📌 Sobre</div>
+Dashboard georreferenciado desenvolvido no **Power BI** para análise de Livrarias, utilizando dados abertos do RJ.  
+*Projeto acadêmico em parceria com [RioOn](https://rioon.rio.br/) e [Senac RJ](https://www.rj.senac.br/).*
 
-### Principais Destaques
-- ✔ Visão 360° das operações
-- ✔ Anál
-- ✔ Painéis complementares integrados
+### Principais Benefícios
+✔ Visão unificada de todas as operações  
+✔ Análise em tempo real  
+✔ Painéis complementares integrados  
 
 ---
+
 
 ## <div style="border-left: 4px solid #2a3f5f; padding-left: 12px">🛠️ Tech Stack</div>
 <div style="display: flex; gap: 15px; flex-wrap: wrap">
@@ -26,6 +28,30 @@ Dashboard interativo desenvolvido no **Power BI** para monitoramento completo do
   <img src="https://img.shields.io/badge/Power_Query-2B579A?style=for-the-badge&logo=powerquery&logoColor=white" alt="Power Query">
   <img src="https://img.shields.io/badge/DAX-FFB900?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX">
 </div>
+
+---
+## 📊 Métricas Principais
+
+### Visão Geral
+- Performance de vendas (R$ e unidades)  
+- Ticket médio por período  
+- Distribuição por tipo de pagamento  
+
+### Produtos
+- Top 5 livros mais vendidos  
+- Top 10 gêneros mais lidos  
+- Evolução mensal de faturamento  
+
+### Filiais
+- Ranking de desempenho por loja  
+- Regiões com maior volume de entregas  
+- Faturamento comparativo por região  
+
+### Vendas
+- Top 3 vendedores (geral e por filial)  
+- Evolução diária/semanal de faturamento  
+- Conversão por canal de venda  
+
 
 ---
 
