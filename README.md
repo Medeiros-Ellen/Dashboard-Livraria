@@ -15,7 +15,7 @@ Dashboard interativo desenvolvido no **Power BI** para monitoramento completo do
 
 ### Principais Destaques
 - ✔ Visão 360° das operações
-- ✔ Análise em tempo real
+- ✔ Anál
 - ✔ Painéis complementares integrados
 
 ---
